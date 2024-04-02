@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1021-Notas-E-Moedas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8bb91ba5bf4a6cde275e8e8503b8998a245b195")]
 [assembly: System.Reflection.AssemblyProductAttribute("1021-Notas-E-Moedas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1021-Notas-E-Moedas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
