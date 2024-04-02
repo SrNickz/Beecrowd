@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Curso L\u00F3gica - Projetos\\Beecrowd\\1113-Crescente-e-Decrescente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505CFCF5-BFF1-485C-83D1-06B3F928264B}|1113-Crescente-e-Decrescente\\1113-Crescente-e-Decrescente.csproj|c:\\users\\nicolas\\onedrive\\documentos\\curso l\u00F3gica - projetos\\beecrowd\\1113-crescente-e-decrescente\\1113-crescente-e-decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505CFCF5-BFF1-485C-83D1-06B3F928264B}|1113-Crescente-e-Decrescente\\1113-Crescente-e-Decrescente.csproj|solutionrelative:1113-crescente-e-decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 351,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Curso L\u00F3gica - Projetos\\Beecrowd\\1113-Crescente-e-Decrescente\\1113-Crescente-e-Decrescente\\Program.cs",
+              "RelativeDocumentMoniker": "1113-Crescente-e-Decrescente\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Curso L\u00F3gica - Projetos\\Beecrowd\\1113-Crescente-e-Decrescente\\1113-Crescente-e-Decrescente\\Program.cs",
+              "RelativeToolTip": "1113-Crescente-e-Decrescente\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:59:04.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 732,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

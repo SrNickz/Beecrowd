@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1047-Tempo-de-Jogo-com-Minutos/1.0.0": {
+        "runtime": {
+          "1047-Tempo-de-Jogo-com-Minutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1047-Tempo-de-Jogo-com-Minutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

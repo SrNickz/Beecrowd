@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1114-Senha-Fixa/1.0.0": {
+        "runtime": {
+          "1114-Senha-Fixa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1114-Senha-Fixa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

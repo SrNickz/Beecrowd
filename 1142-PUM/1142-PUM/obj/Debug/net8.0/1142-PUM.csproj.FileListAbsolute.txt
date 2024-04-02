@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\bin\Debug\net8.0\1142-PUM.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\bin\Debug\net8.0\1142-PUM.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\bin\Debug\net8.0\1142-PUM.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\bin\Debug\net8.0\1142-PUM.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\bin\Debug\net8.0\1142-PUM.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\refint\1142-PUM.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\1142-PUM.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1142-PUM\1142-PUM\obj\Debug\net8.0\ref\1142-PUM.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1143-Quadrado-E-Ao-Cubo", "1143-Quadrado-E-Ao-Cubo\1143-Quadrado-E-Ao-Cubo.csproj", "{B7F1308C-5431-4D25-B348-96E095F1DAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F1308C-5431-4D25-B348-96E095F1DAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F1308C-5431-4D25-B348-96E095F1DAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F1308C-5431-4D25-B348-96E095F1DAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F1308C-5431-4D25-B348-96E095F1DAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02718E83-4E73-4BB1-B037-FC35953D9617}
+	EndGlobalSection
+EndGlobal

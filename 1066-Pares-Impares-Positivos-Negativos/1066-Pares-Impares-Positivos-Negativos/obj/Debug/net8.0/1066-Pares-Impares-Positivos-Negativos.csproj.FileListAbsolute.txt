@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\bin\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\bin\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\bin\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\bin\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\bin\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\refint\1066-Pares-Impares-Positivos-Negativos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\1066-Pares-Impares-Positivos-Negativos.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1066-Pares-Impares-Positivos-Negativos\1066-Pares-Impares-Positivos-Negativos\obj\Debug\net8.0\ref\1066-Pares-Impares-Positivos-Negativos.dll

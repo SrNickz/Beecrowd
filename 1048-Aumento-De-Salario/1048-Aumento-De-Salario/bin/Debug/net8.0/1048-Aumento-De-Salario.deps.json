@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "1048-Aumento-De-Salario/1.0.0": {
+        "runtime": {
+          "1048-Aumento-De-Salario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1048-Aumento-De-Salario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

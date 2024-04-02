@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\bin\Debug\net8.0\1059-Numeros-Pares.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\bin\Debug\net8.0\1059-Numeros-Pares.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\bin\Debug\net8.0\1059-Numeros-Pares.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\bin\Debug\net8.0\1059-Numeros-Pares.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\bin\Debug\net8.0\1059-Numeros-Pares.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\refint\1059-Numeros-Pares.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\1059-Numeros-Pares.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1059-Numeros-Pares\1059-Numeros-Pares\obj\Debug\net8.0\ref\1059-Numeros-Pares.dll

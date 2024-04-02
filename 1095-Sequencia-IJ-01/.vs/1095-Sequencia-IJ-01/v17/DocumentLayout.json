@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Beecrowd\\1095-Sequencia-IJ-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B747BC-3428-4B57-A66D-2EBCECA9EA2F}|1095-Sequencia-IJ-01\\1095-Sequencia-IJ-01.csproj|c:\\users\\nicolas\\onedrive\\documentos\\beecrowd\\1095-sequencia-ij-01\\1095-sequencia-ij-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B747BC-3428-4B57-A66D-2EBCECA9EA2F}|1095-Sequencia-IJ-01\\1095-Sequencia-IJ-01.csproj|solutionrelative:1095-sequencia-ij-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 351,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Beecrowd\\1095-Sequencia-IJ-01\\1095-Sequencia-IJ-01\\Program.cs",
+              "RelativeDocumentMoniker": "1095-Sequencia-IJ-01\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolas\\OneDrive\\Documentos\\Beecrowd\\1095-Sequencia-IJ-01\\1095-Sequencia-IJ-01\\Program.cs",
+              "RelativeToolTip": "1095-Sequencia-IJ-01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:33:16.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 732,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

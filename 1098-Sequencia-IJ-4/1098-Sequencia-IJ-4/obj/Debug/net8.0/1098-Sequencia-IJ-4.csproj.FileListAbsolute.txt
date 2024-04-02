@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\bin\Debug\net8.0\1098-Sequencia-IJ-4.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\bin\Debug\net8.0\1098-Sequencia-IJ-4.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\bin\Debug\net8.0\1098-Sequencia-IJ-4.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\bin\Debug\net8.0\1098-Sequencia-IJ-4.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\bin\Debug\net8.0\1098-Sequencia-IJ-4.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\refint\1098-Sequencia-IJ-4.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\1098-Sequencia-IJ-4.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1098-Sequencia-IJ-4\1098-Sequencia-IJ-4\obj\Debug\net8.0\ref\1098-Sequencia-IJ-4.dll

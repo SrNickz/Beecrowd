@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\bin\Debug\net8.0\1060-Numeros-Positivos.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\bin\Debug\net8.0\1060-Numeros-Positivos.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\bin\Debug\net8.0\1060-Numeros-Positivos.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\bin\Debug\net8.0\1060-Numeros-Positivos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\bin\Debug\net8.0\1060-Numeros-Positivos.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\refint\1060-Numeros-Positivos.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\1060-Numeros-Positivos.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1060-Numeros-Positivos\1060-Numeros-Positivos\obj\Debug\net8.0\ref\1060-Numeros-Positivos.dll

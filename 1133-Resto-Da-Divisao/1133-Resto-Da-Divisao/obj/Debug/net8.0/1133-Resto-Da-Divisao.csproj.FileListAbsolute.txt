@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\bin\Debug\net8.0\1133-Resto-Da-Divisao.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\bin\Debug\net8.0\1133-Resto-Da-Divisao.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\bin\Debug\net8.0\1133-Resto-Da-Divisao.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\bin\Debug\net8.0\1133-Resto-Da-Divisao.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\bin\Debug\net8.0\1133-Resto-Da-Divisao.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\refint\1133-Resto-Da-Divisao.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\1133-Resto-Da-Divisao.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1133-Resto-Da-Divisao\1133-Resto-Da-Divisao\obj\Debug\net8.0\ref\1133-Resto-Da-Divisao.dll

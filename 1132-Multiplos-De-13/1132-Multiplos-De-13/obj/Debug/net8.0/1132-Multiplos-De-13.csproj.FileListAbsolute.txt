@@ -1,0 +1,14 @@
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\bin\Debug\net8.0\1132-Multiplos-De-13.exe
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\bin\Debug\net8.0\1132-Multiplos-De-13.deps.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\bin\Debug\net8.0\1132-Multiplos-De-13.runtimeconfig.json
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\bin\Debug\net8.0\1132-Multiplos-De-13.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\bin\Debug\net8.0\1132-Multiplos-De-13.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.AssemblyInfoInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.AssemblyInfo.cs
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\refint\1132-Multiplos-De-13.dll
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.pdb
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\1132-Multiplos-De-13.genruntimeconfig.cache
+C:\Users\Nicolas\OneDrive\Documentos\Beecrowd\1132-Multiplos-De-13\1132-Multiplos-De-13\obj\Debug\net8.0\ref\1132-Multiplos-De-13.dll
