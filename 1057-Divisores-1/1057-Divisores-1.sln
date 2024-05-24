@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1057-Divisores-1", "1057-Divisores-1\1057-Divisores-1.csproj", "{299E56C5-A71A-499E-9900-A9965930C641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299E56C5-A71A-499E-9900-A9965930C641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299E56C5-A71A-499E-9900-A9965930C641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299E56C5-A71A-499E-9900-A9965930C641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299E56C5-A71A-499E-9900-A9965930C641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CF8B36-192F-40A2-B591-8E30142FA41C}
+	EndGlobalSection
+EndGlobal
