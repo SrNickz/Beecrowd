@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio1145 {
-    class Program {
-        static void Main(string[] args) {
+namespace Exercicio1145
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             /*
             Escreva um programa que leia dois valores X e Y. A seguir, mostre uma sequência de 1 até Y, passando para a próxima linha a cada X números.
 
@@ -11,20 +14,24 @@ namespace Exercicio1145 {
             O arquivo de entrada contém dois valores inteiros, (1 < X < 20) e (X < Y < 100000).
             */
 
-            int x, y, i, j, k;
-            string[] ordens = Console.ReadLine().Split(' ');
-            x = int.Parse(ordens[0]);
-            y = int.Parse(ordens[1]);
+            int x, y, i;
 
-            for (i = 1; i <= y; i++) {
+            string[] values = Console.ReadLine().Split(' ');
+            x = int.Parse(values[0]);
+            y = int.Parse(values[1]);
+
+            for (i = 1; i <= y; i++)
+            {
+
                 Console.Write(i);
-                if (i % x == 0) {
+                if (i % x == 0)
+                {
                     Console.WriteLine();
                 }
-                else {
+                else
+                {
                     Console.Write(" ");
                 }
-
             }
         }
     }
